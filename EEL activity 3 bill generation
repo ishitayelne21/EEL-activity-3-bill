@@ -14,9 +14,6 @@ int main()
     
     /*------------------------------------------------------------------------*/
     
-    int month1 = 150;
-    int month3 = 360;
-    int month6 = 630;
     int plan;
     float tax, original_price, total;
     char name[20], date[20], email_id[40];
